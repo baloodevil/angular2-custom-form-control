@@ -1,0 +1,19 @@
+# .gitignore
+build
+server/bin
+node_modules
+typings
+*.class
+*.js.map
+app/*.js
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
